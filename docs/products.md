@@ -8,6 +8,6 @@ We are working on our inventory for spring with some winter options potentially 
 
 We will share more as soon as we have it.
 
-Right now our focus is on Texas native and [Texas SmartScape](https://www.txsmartscape.com/about) approved plants. Eventually we will have some options from adapted & non-invasive / non-aggressive plant options.
+Right now our focus is on Texas native and [Texas SmartScape](https://www.txsmartscape.com/about) approved plants. Eventually we will have some adapted & non-invasive / non-aggressive plant options available.
 
 Thank you for your patience! If you have any questions, please contact us at one of the methods [here](index.md#contact).
