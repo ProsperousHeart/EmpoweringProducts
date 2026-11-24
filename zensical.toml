@@ -1,10 +1,10 @@
 [project]
-site_url = "https://www.example.com/"
-site_name = "Documentation"
-# site_description = "Your project description"
-# site_author = "Your name"
+site_url = "https://empoweringproducts.us/"
+site_name = "Empowering Products"
+site_description = "Site of Empowering Products, LLC"
+site_author = "Kassandra Keeton"
 
-# copyright = "Copyright &copy; 2026 Your name"
+copyright = "Copyright &copy; 2026 Empowering Products"
 
 # repo_url = "https://github.com/user/repo"
 # repo_name = "user/repo"
