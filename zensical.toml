@@ -12,8 +12,10 @@ copyright = "Copyright &copy; 2026 Empowering Products"
 
 nav = [
   { "Welcome" = "index.md" },
+  { "Freebies" = "freebies.md"},
   # { "Markdown in 5min" = "markdown.md" },
-  { "Products" = "products.md"}
+  { "Products" = "products.md"},
+  { "Volunteering" = "volunteering.md"}
 ]
 
 # extra_css = ["stylesheets/extra.css"]
