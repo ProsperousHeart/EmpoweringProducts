@@ -15,6 +15,7 @@ nav = [
   { "Freebies" = "freebies.md"},
   # { "Markdown in 5min" = "markdown.md" },
   { "Products" = "products.md"},
+  { "Services" = "services.md"},
   { "Volunteering" = "volunteering.md"}
 ]
 
