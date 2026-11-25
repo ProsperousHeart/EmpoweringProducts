@@ -1,5 +1,5 @@
 ---
-title: Empowering Products Home
+title: Home
 ---
 
 ## Our Mission

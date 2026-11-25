@@ -1,5 +1,5 @@
 ---
-title: Freebies via Empowering Products
+title: Freebies
 ---
 
 This page is still under construction, but will grow with freebies that might align with your needs.
